@@ -1,0 +1,72 @@
+.header{
+    display:flex;
+    padding-left: 60rem;
+}
+.header>li{
+    list-style-type: none;
+    padding-left: 2rem;
+}
+.mainDiv{
+    
+}
+
+.google{
+    text-align: center;
+    margin-top: 7rem;
+}
+
+.google>span{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 6rem;
+}
+
+.red{
+    color: red;
+}
+.green{
+    color:rgb(49, 151, 49);
+}
+.orange{
+    color:orange;
+}
+.blue{
+    color:#0044ffaf;
+}
+#g{
+    font-family: 'Jost', sans-serif;
+    font-size: 6.2rem;
+}
+input{
+    border-radius: 5rem;
+    padding:0.7rem;
+    width:35rem;
+    font-size:1rem;
+    border: 1px solid rgba(38, 80, 80, 0.295);
+    padding-left: 1rem;
+}
+.search{
+    display:flex;
+    justify-content: center;
+    
+    
+}
+button{
+    border-style:none;
+    margin-left: 1rem;
+    padding:0.5rem 1rem;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#languages{
+    color:purple;
+    margin-left:0.5rem;
+    word-spacing: 0.5rem;
+}
+#last-sentence{
+    margin-top: 2rem;
+}
+
